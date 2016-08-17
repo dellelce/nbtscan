@@ -1,2 +1,4 @@
 *.exe
 *.o
+config.log
+config.status
